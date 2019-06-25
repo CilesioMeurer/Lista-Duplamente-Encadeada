@@ -10,7 +10,6 @@
 | getLast():T	             |  O(1)        |  
 | isEmpty():boolean          |	O(1)        |
 | removeFirst():T	     |  O(1)        |
-| addFirst(value:T)	     |  O(1)        |
 | removeLast():T	     |  O(1)        |
 | size():long	             |  O(1)        |
 | toArray():Object[0...*]	     |  O(n)        |
