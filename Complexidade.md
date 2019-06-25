@@ -13,7 +13,7 @@
 | addFirst(value:T)	     |  O(1)        |
 | removeLast():T	     |  O(1)        |
 | size():long	             |  O(1)        |
-| toArray():Object[]	     |  O(n)        |
+| toArray():Object[0...*]	     |  O(n)        |
 | get(index: int):T	     |  O(n)        |
 | remove(index: int): T	     |  O(n)        |
 | add(index: int, value:T)   |	O(n)        |
