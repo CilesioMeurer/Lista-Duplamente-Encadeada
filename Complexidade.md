@@ -1,8 +1,6 @@
-# Lista Duplamente Encadeada
+# Complexidade da Lista Duplamente Encadeada
 
-## Complexidade
-
-| Método                     | Complexidade |
+| Métodos                    | Complexidade |
 |:--------------------------:|:------------:|
 | addFirst(value:T)          |	O(1)        |
 | addLast(value:T)           |	O(1)        |
